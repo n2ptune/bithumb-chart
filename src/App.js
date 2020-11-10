@@ -1,7 +1,9 @@
+import Ticker from './components/chart/Ticker'
+
 function App() {
   return (
     <div className="app">
-      <div>Hello</div>
+      <Ticker />
     </div>
   )
 }
